@@ -1,10 +1,17 @@
 import './App.css';
 import Headers from './components/header';
+import { Helmet } from 'react-helmet';
 
 
 function App() {
   return (
-    <Headers></Headers>
+    <div>
+      <Helmet>
+        <title>Home</title>
+      </Helmet>
+      <Headers></Headers>
+    </div>
+    
   );
 }
 

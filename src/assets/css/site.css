@@ -9,7 +9,6 @@
 }
 
 .header h1{
-    line-height: .7;
     font-weight: 700;
     font-size: calc(2.75rem + 1.5vw);
 }
