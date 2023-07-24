@@ -13,7 +13,7 @@ export default function Headers(){
                     </Col>
                     <Col xs="12" sm="6" className="text-center text-sm-start p-3">
                         <h1 className="text-light my-0">M Zulfikar Firdaus</h1>
-                        <h2 className="text-light">Fullstack Developer</h2>
+                        {/* <h2 className="text-light">Fullstack Developer</h2> */}
                         <small className="text-light">mfirdaus.zulfikar@gmail.com <span className="text-warning">|</span></small>
                     </Col>
                 </Row>
